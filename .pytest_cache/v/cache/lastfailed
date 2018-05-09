@@ -1,0 +1,5 @@
+{
+  "selenium_start-master/selenium_start/tests/test_site.py::test_edit_button_is_enabled_on_http_page": true,
+  "selenium_start-master/selenium_start/tests/test_site.py::test_mozilla_search": true,
+  "selenium_start-master/selenium_start/tests/test_site.py::test_navigate_to_http_page": true
+}
